@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Miguel Poma!</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hi, my name is Miguel.
+        \n\n I love music.
+        \n\n The kind that is alive and swims around in an aqurium or river , or lake , and definitely the ocean.
+        \n\n Fun fact is that I have several aquariums an also a river.
+        \n\n I lik eating fish, too. Raw fish . Grilled fish. Smoked fish =. Poached fish - not so much.
+        \n And sometimes I even go fishing.
+        \n And even less somethimes, I actually catch something.
+        \n\n Once, when I was camping in Canada, and very hundry, I even caught a large salmon with my hands.
+        \n\n I\'ll be happy to teach you how to make your own aquarium.
+        \n You should ask someone else about fishing. though.\n\n
+    </string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
+</resources>
